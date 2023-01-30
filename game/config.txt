@@ -1,0 +1,4 @@
+Game_name:我的故事;
+Game_key:b370d7691965b48;
+Title_bgm:TeaBreak.mp3;
+Title_img:cafe.jpg;
